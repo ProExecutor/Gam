@@ -1,0 +1,9 @@
+{
+  "title": {
+    "message": "ApkOnline APK manager for Android emulator"
+  },
+  "description": {
+    "message": "Manager that allows to handle APK files that are run with the ApkOnline android emulator platform"
+  }
+}
+
